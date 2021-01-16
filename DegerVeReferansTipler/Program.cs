@@ -20,6 +20,6 @@ namespace DegerVeReferansTipler
             sayilar2[0] = 999;
             //sayilar1[0]
             Console.WriteLine(sayilar1[0]);
-        }
+        
     }
 }
